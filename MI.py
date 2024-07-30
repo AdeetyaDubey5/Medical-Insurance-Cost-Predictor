@@ -208,4 +208,5 @@ elif section=='About':
     st.write("""
     This project was Developed by a passionate data scientist dedicated to leveraging data analysis and machine learning techniques to solve real-world problems. Adeetya's expertise in predictive modeling and statistical analysis has been instrumental in creating this insightful and practical tool for predicting medical insurance costs.
     """)
+    st.write('Hello')
     
